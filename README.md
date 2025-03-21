@@ -70,7 +70,7 @@ Checkpoint: Comparison with published works completed. Start assembling our fina
 - Submit the project and prepare for any possible presentation or follow-up discussion.
   
 <strong>Final Deliverables by April 25:</strong>
-✅ Full reproduction paper with results and insights as well as recorded video.
-✅ Replicated EDA figures and dataset quirks.
-✅ Comparison to original work, highlighting gaps or limitations.
-✅ Fully documented code repository for transparency and reproducibility.
+- Full reproduction paper with results and insights as well as recorded video.
+- Replicated EDA figures and dataset quirks.
+- Comparison to original work, highlighting gaps or limitations.
+- Fully documented code repository for transparency and reproducibility.
